@@ -1,3 +1,9 @@
-theme: jekyll-theme-minimal
-title: Laura's Homepage
-description: Bookmark this to keep an eye on my project updates!
+# Site settings
+title: Laura's First Git Page!
+author:
+  name: Laura Loughmiller
+  email: laurajones2@fakeemail.com
+description: "This took longer than it should have"
+
+# Build settings
+remote_theme: jekyll/minima
