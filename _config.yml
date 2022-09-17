@@ -3,7 +3,7 @@ title: Laura's First Git Page!
 author:
   name: Laura Loughmiller
   email: laurajones2@fakeemail.com
-description: "This took longer than it should have"
+description: "This took me longer than it should have"
 
 # Build settings
 remote_theme: jekyll/minima
