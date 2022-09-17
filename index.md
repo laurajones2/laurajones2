@@ -3,6 +3,7 @@ layout: home
 ---
 
 **Welcome one and all**
+
 Find my github at [Laura's github](https://github.com/laurajones2/laurajones2.github.io.git).
 
 ##Markdown Practice
