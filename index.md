@@ -2,4 +2,4 @@
 layout: home 
 ---
 
-Welcome to Laura's Git Hub Page!
+Welcome one and all
