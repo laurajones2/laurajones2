@@ -6,7 +6,7 @@ layout: home
 
 Find my github at [Laura's github](https://github.com/laurajones2/laurajones2.github.io.git).
 
-## Markdown Practice
+### Markdown Practice
 
 *I have this sticker on my laptop*
 
